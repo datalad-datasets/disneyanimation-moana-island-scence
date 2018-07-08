@@ -1,0 +1,30 @@
+{
+  "db_version": 1,
+  "files": {
+    "License_Moana.pdf": {
+      "filename": "License_Moana.pdf",
+      "mtime": 1529094164,
+      "size": 14674
+    },
+    "island-README.pdf": {
+      "filename": "island-README.pdf",
+      "mtime": 1530555410,
+      "size": 2757031
+    },
+    "island-animation-v1.tgz": {
+      "filename": "island-animation-v1.tgz",
+      "mtime": 1530558847,
+      "size": 25370771695
+    },
+    "island-basepackage-v1.tgz": {
+      "filename": "island-basepackage-v1.tgz",
+      "mtime": 1530313996,
+      "size": 48118516243
+    },
+    "island-pbrt-v1.tgz": {
+      "filename": "island-pbrt-v1.tgz",
+      "mtime": 1530558522,
+      "size": 6578501337
+    }
+  }
+}
